@@ -1,0 +1,28 @@
+div{
+
+background-color:#716A6A;
+width: 130px;
+height: 130px;
+border:2px solid black;
+margin:10px;
+}
+
+
+.grande{
+width: 480px;
+height: 160px;
+
+}
+.dentro{
+
+border:3px solid black;	
+height: 130px;
+width: 130px;
+display: inline-block;
+}
+
+.abajo{
+display: inline-block;	
+
+}
+
